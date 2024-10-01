@@ -11,7 +11,7 @@ hero:
     #   link: /markdown-examples
     - theme: alt
       text: Invoice Processing
-      link: /invoice-processing
+      link: /invoice_main_page
 
 # features:
 #   - title: Feature A
