@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Table of content",
   description: "A VitePress Site",
+  base:'/repo/',
   themeConfig: {
     search:{
        provider: 'local'
